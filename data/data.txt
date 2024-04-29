@@ -5,37 +5,37 @@ DEFEND"
 A knowledge graph of cybersecurity countermeasures
 
 0.140
-ï¿½ATT&CK Lookup ï¿½Search D3FEND's 620 Artifacts D3FEND Lookup
+‘ATT&CK Lookup ‘Search D3FEND's 620 Artifacts D3FEND Lookup
 Model - Harden - Detect - Isolate -  Deceive - Evict - Resto
 + Application Credential + Message Platform File Identifier. | Message Network platform = ProcessUser Behavior Execution Network Decoy Decoy Credential File Process Restore
 Hardening Hardening Hardening Hardening Analysis Analysis Analysis qhaysig Monitoring Analysis Analysis Isolation Isolation Environment Object Eviction Eviction Eviction Access
-Application Biometric Message Bootloader Dynamic + Homoglyph Sender Administrative File Database Authentication Executable Broadcast. ï¿½ Connected Decoy Account File Process Restore
+Application Biometric Message Bootloader Dynamic + Homoglyph Sender Administrative File Database Authentication Executable Broadcast. © Connected Decoy Account File Process Restore
 Configuration Authentication Authentication Authentication Analysis. Detection MTA Network Integrity Query String Event Allowiisting Domain Honeynet File Locking Removal Suspen Network C
-Hardening Reputation Activity Monitoring Analysis -ï¿½Thresholding Isolation Access
+Hardening Reputation Activity Monitoring Analysis -—Thresholding Isolation Access
 Certificate Message Disk Emulated Identifier Analysis Analysis Executable Integrated Decoy Authentication _ Email Process
 Dead Code Pinning Encryption Encryption File Activity Firmware File Access. Authorization Denylisting DNS Honeynet Network Cache Removal Termination Restore Co:
-Elimination Analysis Analysis. ï¿½ï¿½ Sender Byte Behavior Pattern Event Allowilsting Resource __Invalidation User
+Elimination Analysis Analysis. ©‘ Sender Byte Behavior Pattern Event Allowilsting Resource __Invalidation User
 Credential Transfer Driver Load Reputation | Sequence Analysis Analysis Thresholding  Hardware- Standalone Account
-Exception Rotation Agent Integrity File Identifier nalysis ï¿½mutation based DNS Honeynet Decoy Credential sccess D
-Handler ï¿½Authentication Checking Content_-ï¿½-Reputation Firmware Indirect Credential Process Denylsting Persona evoking
+Exception Rotation Agent Integrity File Identifier nalysis ‘mutation based DNS Honeynet Decoy Credential sccess D
+Handler ‘Authentication Checking Content_-—-Reputation Firmware Indirect Credential Process Denylsting Persona evoking
 Pointer Credential Analysis Analysis Certiicate Embedded Branch Call Compromise _Isolation Unlock
-Validation ï¿½ycramieion File ï¿½Analysis, Monitoring Analysis Scope Forward Decoy Account
+Validation —ycramieion File ‘Analysis, Monitoring Analysis Scope Forward Decoy Account
 Scoping Encryption File Domain Code Analysis 10 Port Resolution Public
 Pointer Content Name Active Process Restriction Domain Release a
 Authentication Rules Reputation Certificate Firmware Code Domain Denylisting
-Domain Trust Local File ï¿½s a
+Domain Trust Local File és a
 Paley pete Analysis, Analysis Vefcaon | Segment Account Kernel ; De
-Process ade File Hesh ï¿½ = fonitoring based aera Session
+Process ade File Hesh ° = fonitoring based aera Session
 Segment lashing ile Has assive ripheral Process jomain Token
 Execution a MulFactor RF Shisiding Reputation Cxitrea imware Process Job Function Isolation _-_Denylisting
-Prevention GTS Analysis Verification Self- ï¿½Access Decoy ï¿½
+Prevention GTS Analysis Verification Self- ‘Access Decoy ¢
 Software Modification Patter Mandat Homoglyph i
-Segment One-time Update IP Client-server Detection Analysis ï¿½Access Denylisting creel
+Segment One-time Update IP Client-server Detection Analysis ‘Access Denylisting creel
 Address Offset Password Reputation Payload Control
 Randomization System Analysis Profiling Verification Process Local Account Forward
 Strong Configuration Spawn Monitoring System Resolution
 Stack Frame Password Permissions URL Connection Operating Analysis Cail iP
-Policy Reputation ï¿½a ï¿½ Denylisting
+Policy Reputation ‘a § Denylisting
 Canary "Analysis ttempt system Resource Fa
 Validation TPM Boot alysis Analysis Monitoring Process Access
 User Account Integrity Lineage Pattern Reverse
@@ -43,15 +43,15 @@ Permissions URL DNS Traffic Endpoint Analysis Analysis Resolution
 Analysis Analysis Health UP
 Beacon Script Session Genie
 File Carvin Execution Duration
-9 Input ï¿½Analysis Analysis Encrypted
+9 Input ‘Analysis Analysis Encrypted
 inbound Device Tunnels
 Inboun
 Session Analysis Shadow User Data Network
 Volume Memory Stack Transfer ewer
-ï¿½omparisons
+‘omparisons
 Analysis Boundary * Analysis Filtering
 Tracking
-IPC Traffic Sytem Call User ï¿½
+IPC Traffic Sytem Call User —
 Analysis alysis eolocation
 Scheduled Logon Pattern Traffic
 Job See Filtering
