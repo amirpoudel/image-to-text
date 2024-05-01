@@ -11,7 +11,7 @@ class HTMLScraper:
     def __init__(self,base_url,folderPath,visited_url_path ,max_depth=1):
         self.base_url = base_url
         self.max_depth = max_depth
-        self.visited = visited_url_path
+        self.visited_url_path = visited_url_path
         self.folderPath = folderPath
 
     # extract name for file from url 
@@ -83,6 +83,7 @@ class HTMLScraper:
                 visited_urls = set(visited_file.read().splitlines())
 
         if url in visited_urls:
+            print(f"URL {url} has already been visited. Skipping...")
             return
 
         html_data = self.get_html_data(url)
@@ -109,5 +110,5 @@ base_url = "https://attack.mitre.org"
 folder_path = "html-data/mitre-attack"
 visited = "html-data/mitre-attack/visited_url.csv"
 max_depth = 1000
-scraper = HTMLScraper(base_url,folder_path,max_depth) # max depth 100
+scraper = HTMLScraper(base_url,folder_path,visited,max_depth) # max depth 100
 scraper.explore_links() # start exploring links and save to location
