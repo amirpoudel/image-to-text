@@ -54,7 +54,7 @@ class HTMLScraper:
         with open(file_path, 'w', encoding='utf-8') as file:
             file.write(html_data)
 
-        with open(index_csv_file, 'a', encoding='utf-8') as csvfile:
+        with open(index_csv_file, 'w',newline='', encoding='utf-8') as csvfile:
             writer = csv.writer(csvfile)
             writer.writerow(["file","source"])
             writer.writerow([file_name,url])
